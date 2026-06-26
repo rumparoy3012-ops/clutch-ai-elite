@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.streamlit/config.toml
+.streamlit/secrets.toml
+venv/
+.venv/
+env/
